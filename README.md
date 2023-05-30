@@ -1,4 +1,4 @@
-# MachineLearningSimulation (Unity 3D)
+# Machine Learning Simulation (Unity 3D)
 Stored on Plastic SCM. Contact me if you would like access.
 
 https://youtu.be/k2G_-hnIZj8
